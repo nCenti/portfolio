@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Mi portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sort": "sort-json subdomains.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nCenti/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "web"
+  ],
+  "author": "Centi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nCenti/portfolio/issues"
+  },
+  "homepage": "https://github.com/nCenti/portfolio#readme",
+  "devDependencies": {
+    "sort-json": "^2.0.1"
+  }
+}
